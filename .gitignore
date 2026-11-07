@@ -1,3 +1,4 @@
 /agents.egg-info
 /build/lib/agents
 /uv.lock
+/autonomous-coding/__pycache__
